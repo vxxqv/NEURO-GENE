@@ -1,0 +1,24 @@
+========================================================================
+NEUROGENE-HUB PIPELINE ANALYTICAL REPORT
+========================================================================
+Network Statistics:
+- Total Functional Nodes (Genes evaluated): 15
+- Total Co-expression Interactions Observed: 36
+- Average Network Density: 0.3429
+
+Top 5 Prioritized Hub Genes Candidate Overview:
+------------------------------------------------------------------------
+Rank	Gene	Log2FC	p-value	Eigenvalue Centrality	Priority Score
+------------------------------------------------------------------------
+1	EGR1	0.757	6.22e-07	0.351		2.122
+2	BDNF	0.666	3.36e-07	0.347		1.927
+3	FOS	0.673	2.25e-06	0.347		1.699
+4	CREB1	0.714	8.68e-06	0.348		1.618
+5	ARC	0.590	3.39e-05	0.345		1.175
+------------------------------------------------------------------------
+System Insights Summary:
+The primary candidate identified is 'EGR1' displaying a robust cross-talk 
+profile showing strong statistical changes paired with high network integration density. 
+
+Report compiled successfully in directory: 'outputs'.
+========================================================================
