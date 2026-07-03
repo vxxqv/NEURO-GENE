@@ -1,0 +1,1 @@
+pip install pandas numpy scipy networkx matplotlib seaborn
